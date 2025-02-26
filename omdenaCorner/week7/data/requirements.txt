@@ -1,0 +1,10 @@
+geopandas
+rasterio == 1.4.3
+folium
+shapely
+fiona
+matplotlib
+numpy
+pandas
+rasterstats
+contextily
