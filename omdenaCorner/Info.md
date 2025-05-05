@@ -6,13 +6,20 @@ All Assignments Links :https://classroom.github.com/classrooms/194106859-omdena-
 
 Assignments:
 - Week 1 : 
-- Week 2 : https://classroom.github.com/a/biAVsEcC
+- Week 2 : Passed : https://classroom.github.com/a/biAVsEcC
+          https://github.com/Omdena-CBP-Tanzania/python-syntax-abuu94
 - Week 3 : 
-- Week 4 :  https://classroom.github.com/a/cN9PYWaT
+- Week 4 : Failed :  https://classroom.github.com/a/cN9PYWaT
+          https://github.com/Omdena-CBP-Tanzania/control-flow-assignment-abuu94
+  
 - Week 5 : 
-- Week 6 : https://classroom.github.com/a/0taRo0by
+- Week 6 : Failed : https://classroom.github.com/a/0taRo0by
+          https://github.com/Omdena-CBP-Tanzania/complete-eda-assignment-abuu94
+  
 - Week 7 : None
-- Week 8 : https://classroom.github.com/a/RUco9Cx0
+- Week 8 : Failed : https://classroom.github.com/a/RUco9Cx0
+        https://github.com/Omdena-CBP-Tanzania/gis-data-science-abuu94
+  
 - Week 9 : 
 - Week 10 :
 - Week 11:
