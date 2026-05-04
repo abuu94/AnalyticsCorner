@@ -5,7 +5,6 @@
 
 ### Currently Registered Webinar
 - Course: Introduction to Bayesian Statistical Learning 2
-  ```
     + Course Project via the link
         https://judoor.fz-juelich.de/projects/join/training2617 before the course
     + Meeting Link
@@ -14,7 +13,7 @@
         https://go.fzj.de/bsl-2-2026 
     + General information
         https://notes.desy.de/acaIp0c0RG-MooXlpLoBsA?both
-  ```
+  
 - Course
 - Course
 - Course
